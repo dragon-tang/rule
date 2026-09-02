@@ -1,0 +1,28 @@
+# > CookieRun: Classic 游戏核心服务
+DOMAIN-SUFFIX,devsnova.cloud,extended-matching
+DOMAIN-SUFFIX,devsisters.cloud,extended-matching
+DOMAIN-SUFFIX,devsisters.systems,extended-matching
+DOMAIN-SUFFIX,devskrf.cloud,extended-matching
+
+# > CookieRun: Classic 资源更新 CDN
+DOMAIN-SUFFIX,devscdn.com,extended-matching
+DOMAIN-SUFFIX,devscake.com,extended-matching
+
+# > 语音与通信引擎 (Vivox)
+DOMAIN-SUFFIX,vivox.com,extended-matching
+DOMAIN,vivox.services.api.unity.com,extended-matching
+DOMAIN,safevoice.services.api.unity.com,extended-matching
+
+# > 第三方 SDK (归因/崩溃报告/服务)
+DOMAIN-SUFFIX,appsflyersdk.com,extended-matching
+DOMAIN-SUFFIX,googlesyndication.com,extended-matching
+DOMAIN-SUFFIX,crashlytics.com,extended-matching
+DOMAIN-SUFFIX,firebase.google.com,extended-matching
+DOMAIN,www.googleapis.com,extended-matching
+
+# > 社交登录及周边网页
+DOMAIN-SUFFIX,g.kakao.com,extended-matching
+DOMAIN-SUFFIX,devsisters.com,extended-matching
+DOMAIN-SUFFIX,cookierunstore.com,extended-matching
+DOMAIN-SUFFIX,onelink.me,extended-matching
+DOMAIN-SUFFIX,coo.kie.run,extended-matching
