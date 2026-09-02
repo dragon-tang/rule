@@ -23,6 +23,7 @@ DOMAIN,www.googleapis.com,extended-matching
 # > 社交登录及周边网页
 DOMAIN-SUFFIX,g.kakao.com,extended-matching
 DOMAIN-SUFFIX,devsisters.com,extended-matching
+DOMAIN-SUFFIX,devplay.com,extended-matching
 DOMAIN-SUFFIX,cookierunstore.com,extended-matching
 DOMAIN-SUFFIX,onelink.me,extended-matching
 DOMAIN-SUFFIX,coo.kie.run,extended-matching
