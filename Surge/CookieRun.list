@@ -15,10 +15,7 @@ DOMAIN,safevoice.services.api.unity.com,extended-matching
 
 # > 第三方 SDK (归因/崩溃报告/服务)
 DOMAIN-SUFFIX,appsflyersdk.com,extended-matching
-DOMAIN-SUFFIX,googlesyndication.com,extended-matching
 DOMAIN-SUFFIX,crashlytics.com,extended-matching
-DOMAIN-SUFFIX,firebase.google.com,extended-matching
-DOMAIN,www.googleapis.com,extended-matching
 
 # > 社交登录及周边网页
 DOMAIN-SUFFIX,g.kakao.com,extended-matching
