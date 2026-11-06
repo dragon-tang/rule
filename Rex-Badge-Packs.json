@@ -1,0 +1,62 @@
+{
+  "format" : "rex.resource-badge-packs",
+  "packs" : [
+    {
+      "name" : "彩色有边框",
+      "url" : "https://streambridge-studio-markers.vercel.app/badges.json"
+    },
+    {
+      "name" : "彩色无边框",
+      "url" : "https://streambridge-studio-markers.vercel.app/badges-noframe.json"
+    },
+    {
+      "name" : "黑白",
+      "url" : "https://streambridge-studio-markers.vercel.app/badges-mono.json"
+    },
+    {
+      "name" : "Aurora",
+      "url" : "https://xperience-app.com/badges/aaa22fbc-59f2-4f04-8426-f4b1ff31363f.json"
+    },
+    {
+      "name" : "Pulse",
+      "url" : "https://xperience-app.com/badges/dbe3e00e-64a0-416e-a0d2-4f0d6b85617b.json"
+    },
+    {
+      "name" : "Prism",
+      "url" : "https://xperience-app.com/badges/c9c66f3f-431d-4554-a9b7-8e208364854d.json"
+    },
+    {
+      "name" : "spectrum",
+      "url" : "https://xperience-app.com/badges/79a74a83-f342-41a6-aac4-5412684fabbd.json"
+    },
+    {
+      "name" : "Onyx",
+      "url" : "https://xperience-app.com/badges/0a5dfd15-2a6c-42c6-bd79-978d77d13752.json"
+    },
+    {
+      "name" : "Wire",
+      "url" : "https://xperience-app.com/badges/7cbb1c20-fbb2-4ca9-bacc-0e7724c46262.json"
+    },
+    {
+      "name" : "Ghost",
+      "url" : "https://xperience-app.com/badges/8997654d-6a1c-45c0-8d7a-5e4caabd3b91.json"
+    },
+    {
+      "name" : "Studio Starter",
+      "url" : "https://xperience-app.com/badges/1531a001-3e35-4980-8873-3cb6d712e2aa.json"
+    },
+    {
+      "name" : "Mono Logos",
+      "url" : "https://xperience-app.com/badges/ab7a447b-7858-4acf-a192-592a769426ef.json"
+    },
+    {
+      "name" : "Dark Logos",
+      "url" : "https://xperience-app.com/badges/8fe41e2c-0f4e-4fa3-84b8-c5183649477a.json"
+    },
+    {
+      "name" : "Dark Logos v2",
+      "url" : "https://xperience-app.com/badges/17fe46dc-65e1-42af-bd1b-5afc04d0f093.json"
+    }
+  ],
+  "version" : 1
+}
