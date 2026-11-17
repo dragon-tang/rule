@@ -1,0 +1,5 @@
+DOMAIN-SUFFIX,ess.apple.com,extended-matching
+DOMAIN,gateway.icloud.com,extended-matching
+DOMAIN,pancake.apple.com,extended-matching
+DOMAIN,iphone-ld.apple.com,extended-matching
+DOMAIN,init.ess.apple.com,extended-matching
